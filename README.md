@@ -122,3 +122,4 @@ NOTE: every layer is built upon the previous one just like layers of onion, maki
 
 This layered approach ensures that when you load a Web Page, each step from physical transmission to application level processing is handled systematically, making sure communication is reliable over the internet.  
 
+
