@@ -6,7 +6,7 @@ This project demonstrates key networking concepts by documenting:
 
 - IP subnetting calculation using an online subnetting calculator.
 
-- An analysis of the TCP/IP protocol suite in real-world scenerio (loading a web page).
+- An analysis of the TCP/IP protocol suite in real-world scenerio.
 
 
 ## OSI (Open System Interconnection) Model Explanation
