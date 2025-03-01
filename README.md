@@ -51,7 +51,7 @@ I would be starting with number 1 which is physical layer
 
 NOTE: every layer is built upon the previous one just like layers of onion, making sure that data is successfully transmitted from one end to the other with proper handling at each step.
 
-##2 IP Subnetting Calculations
+## 2. IP Subnetting Calculations
 
 ### Original Scenario 
 
